@@ -10,7 +10,6 @@ const roboto = Roboto({
     weight: ["300", "400", "500", "700"],
     styles: ["italic", "regular"],
     subsets: ["latin-ext"],
-
 })
 
 export default function RootLayout({ children }) {
